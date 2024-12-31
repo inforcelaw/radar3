@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-RADAR_DOWNLOAD_URL="https://github.com/inforcelaw/radar2"
+RADAR_DOWNLOAD_URL="https://raw.githubusercontent.com/inforcelaw/radar2/refs/heads/main/radar.js"
 
 # Colors for output
 RED='\033[0;31m'
